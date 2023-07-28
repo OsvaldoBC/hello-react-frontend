@@ -39,7 +39,7 @@ OPTIONAL SECTIONS:
 
 # 📖 hello-react-front-end <a name="about-project"></a>
 
-*hello-react-front-end* is a React frontend application that will fetch a Ruby on Rails backend application
+*hello-react-front-end* is a React frontend application that will fetch an API from a Ruby on Rails backend application called [hello-rails-backend](https://github.com/OsvaldoBC/hello-rails-backend)
 
 ## 🛠 Built With <a name="built-with"></a>
 - `React`
